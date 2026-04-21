@@ -21,4 +21,4 @@ Estou em busca da minha primeira oportunidade de estágio na área de tecnologia
 
 ### 📬 Contato
 - **LinkedIn:** [linkedin.com/in/rogerio-nascimento-dias](https://www.linkedin.com/in/rogerio-nascimento-dias)
-- **E-mail:** rascimentodias36@gmail.com
+- **E-mail:** rnascimentodias36@gmail.com
