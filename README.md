@@ -19,6 +19,11 @@ Atualmente, estou aprimorando minhas competências nas seguintes áreas:
 ### 🚀 Objetivo
 Estou em busca da minha primeira oportunidade de estágio na área de tecnologia, seja em desenvolvimento ou infraestrutura. Tenho experiência corporativa como Jovem Aprendiz na **Atento**, o que me deu vivência em comunicação assertiva e rotinas estruturadas.
 
+### 🎓 Certificações
+- **Formação em Desenvolvimento Web e Lógica (102h)** – Alura 
+  - [📄 Clique aqui para visualizar o PDF](./Certificado-Alura-Rogerio.pdf)
+
 ### 📬 Contato
 - **LinkedIn:** [linkedin.com/in/rogerio-nascimento-dias](https://www.linkedin.com/in/rogerio-nascimento-dias)
 - **E-mail:** rnascimentodias36@gmail.com
+
