@@ -18,7 +18,7 @@ Atualmente, estou aprimorando minhas competências nas seguintes áreas:
 * **Automação:** Experiência em design de fluxos lógicos e automação.
 
 ### 🚀 Objetivo
-Estou em busca da minha primeira oportunidade de estágio na área de tecnologia, seja em desenvolvimento ou infraestrutura. Tenho experiência corporativa como Jovem Aprendiz na **Atento**, o que me deu vivência em comunicação assertiva e rotinas estruturadas.
+Estou em busca da minha primeira oportunidade de estágio na área de tecnologia, seja em desenvolvimento ou infraestrutura. Tenho experiência corporativa como Estagiário no **Banco Rendimento** , o que me deu vivência em comunicação assertiva, rotinas estruturadas, metodologias ágeis e vivência em tecnologia.
 
 ### 🎓 Certificações
 - **Formação em Desenvolvimento Web e Lógica (102h)** – Alura 
