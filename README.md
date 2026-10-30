@@ -18,7 +18,7 @@ Atualmente, estou aprimorando minhas competências nas seguintes áreas:
 * **Automação:** Experiência em design de fluxos lógicos e automação.
 
 ### 🚀 Objetivo
-Estou em busca da minha primeira oportunidade de estágio na área de tecnologia, seja em desenvolvimento ou infraestrutura. Tenho experiência corporativa como Estagiário no **Banco Rendimento** , o que me deu vivência em comunicação assertiva, rotinas estruturadas, metodologias ágeis e vivência em tecnologia.
+Estudante de Engenharia de Software com vivência corporativa em ambiente financeiro (Banco Rendimento) e suporte técnico N2. Focado no desenvolvimento backend (.NET / C# e Java), orientação a objetos e modelagem de bases de dados relacionais (SQL Server).
 
 ### 🎓 Certificações
 - **Formação em Desenvolvimento Web e Lógica (102h)** – Alura 
